@@ -1,5 +1,9 @@
 == README
 
+# RUby on Rails Tutorial: first application
+
+This is my first application by Yxy
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
